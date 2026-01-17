@@ -1,7 +1,7 @@
-Họ tên: Nguyễn Văn Phan
-MSV: 23810310309
-Lớp: D18CNPM4
+Họ tên: Nguyễn Văn Phan<br>
+MSV: 23810310309<br>
+Lớp: D18CNPM4<br>
 
-DEMO:
+DEMO:<br>
 ![Demo](./images/demo.jpg)
 
